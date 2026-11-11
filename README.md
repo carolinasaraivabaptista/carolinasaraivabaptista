@@ -2,8 +2,6 @@
 
 I'm a first-year **MSc student in Data Science and Engineering** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/) in Lisbon, with a BSc in **Applied Mathematics and Computation**. I like turning mathematical ideas into working code: machine learning models, numerical simulations, statistical analyses and data pipelines.
 
-I'm looking for **internships and junior roles** in data science, data engineering, machine learning, quantitative modelling and risk analysis.
-
 ## Currently working on
 
 - 🌊 **Chlorophyll-a forecasting:** one-day-ahead prediction of chlorophyll-a from ocean and weather data with regularised linear models and temporal cross-validation (Python, scikit-learn)
