@@ -7,6 +7,7 @@ I'm looking for **internships and junior roles** in data science, data engineeri
 ## Currently working on
 
 - 🌊 **Chlorophyll-a forecasting:** one-day-ahead prediction of chlorophyll-a from ocean and weather data with regularised linear models and temporal cross-validation (Python, scikit-learn)
+- 📈 **Mutual fund style classification:** can a fund's numbers tell whether it is Value, Blend or Growth? Comparing LDA, QDA, FDA and Naive Bayes on 3,000+ US equity funds, with PCA and robust PCA to find what separates the styles (R)
 - 🗄️ **SQL projects:** database design and querying
 
 ## Tech
