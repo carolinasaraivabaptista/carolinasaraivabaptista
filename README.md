@@ -20,6 +20,7 @@ I'm a first-year **MSc student in Data Science and Engineering** at [Instituto S
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Supervised Classification (BSc thesis)](https://github.com/carolinasaraivabaptista/supervised-classification-thesis) | From Iris to Fashion-MNIST: LDA, PCA, PCR and SVM, with 98% on MNIST and assumption checks, outliers and model selection on validation data | R, MASS, e1071 |
 | [Bayesian Network Classifier](https://github.com/carolinasaraivabaptista/bayesian-network-classifier) | Learns Bayesian networks from data with an MDL-scored hill climber and classifies new cases, up to 97% accuracy | Java, Swing |
 | [Numerical Methods for Trajectories](https://github.com/carolinasaraivabaptista/numerical-methods-trajectories) | Drone path planning with splines and kernel smoothing, and satellite orbits with Runge–Kutta solvers | MATLAB |
 | [Well-being in European Regions](https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis) | Hypothesis tests and bootstrap confidence intervals on OECD regional data | R, ggplot2, dplyr |
