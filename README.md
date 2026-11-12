@@ -31,14 +31,14 @@ I'm a first-year **MSc student in Data Science and Engineering** at [Instituto S
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/supervised-classification-thesis"><img src="https://github.com/carolinasaraivabaptista/supervised-classification-thesis/raw/main/figures/overview.png" alt="Supervised classification (R)"></a><br><sub>Supervised classification (R)</sub></td>
-<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/bayesian-network-classifier"><img src="https://github.com/carolinasaraivabaptista/bayesian-network-classifier/raw/main/figures/learned_network.png" alt="Bayesian network classifier (Java)"></a><br><sub>Bayesian network classifier (Java)</sub></td>
-<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/numerical-methods-trajectories"><img src="https://github.com/carolinasaraivabaptista/numerical-methods-trajectories/raw/main/figures/orbit.png" alt="Numerical trajectories (MATLAB)"></a><br><sub>Numerical trajectories (MATLAB)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/supervised-classification-thesis"><img src="assets/thesis.png" alt="Supervised classification (R)"></a><br><sub>Supervised classification (R)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/bayesian-network-classifier"><img src="assets/bayes.png" alt="Bayesian network classifier (Java)"></a><br><sub>Bayesian network classifier (Java)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/numerical-methods-trajectories"><img src="assets/orbit.png" alt="Numerical trajectories (MATLAB)"></a><br><sub>Numerical trajectories (MATLAB)</sub></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis"><img src="https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis/raw/main/figures/indicators.png" alt="Well-being in Europe (R)"></a><br><sub>Well-being in Europe (R)</sub></td>
-<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/evolutionary-graph-coloring"><img src="https://github.com/carolinasaraivabaptista/evolutionary-graph-coloring/raw/main/figures/petersen_coloring.png" alt="Evolutionary graph colouring (Python)"></a><br><sub>Evolutionary graph colouring (Python)</sub></td>
-<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/derivative-free-newton"><img src="https://github.com/carolinasaraivabaptista/derivative-free-newton/raw/main/figures/convergence.png" alt="Derivative-free Newton (MATLAB)"></a><br><sub>Derivative-free Newton (MATLAB)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis"><img src="assets/wellbeing.png" alt="Well-being in Europe (R)"></a><br><sub>Well-being in Europe (R)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/evolutionary-graph-coloring"><img src="assets/coloring.png" alt="Evolutionary graph colouring (Python)"></a><br><sub>Evolutionary graph colouring (Python)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/derivative-free-newton"><img src="assets/newton.png" alt="Derivative-free Newton (MATLAB)"></a><br><sub>Derivative-free Newton (MATLAB)</sub></td>
 </tr>
 </table>
 
