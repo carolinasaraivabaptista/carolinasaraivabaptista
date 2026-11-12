@@ -11,6 +11,8 @@ I'm a first-year **MSc student in Data Science and Engineering** at [Instituto S
 
 ## Tech
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![DataGrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white)
+
 - **Languages:** Python · R · SQL · Java · MATLAB
 - **Data:** SQL · data modelling · data analysis and visualisation
 - **Areas:** machine learning · statistics · numerical methods · quantitative modelling · simulation
@@ -26,6 +28,19 @@ I'm a first-year **MSc student in Data Science and Engineering** at [Instituto S
 | [Well-being in European Regions](https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis) | Hypothesis tests and bootstrap confidence intervals on OECD regional data | R, ggplot2, dplyr |
 | [Evolutionary Graph Colouring](https://github.com/carolinasaraivabaptista/evolutionary-graph-coloring) | Discrete-event evolutionary simulation that approximates the chromatic number of a graph | Python |
 | [Derivative-Free Newton Method](https://github.com/carolinasaraivabaptista/derivative-free-newton) | A Newton variant that needs no derivatives, plus a study of rounding-error amplification | MATLAB |
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/supervised-classification-thesis"><img src="https://github.com/carolinasaraivabaptista/supervised-classification-thesis/raw/main/figures/overview.png" alt="Supervised classification (R)"></a><br><sub>Supervised classification (R)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/bayesian-network-classifier"><img src="https://github.com/carolinasaraivabaptista/bayesian-network-classifier/raw/main/figures/learned_network.png" alt="Bayesian network classifier (Java)"></a><br><sub>Bayesian network classifier (Java)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/numerical-methods-trajectories"><img src="https://github.com/carolinasaraivabaptista/numerical-methods-trajectories/raw/main/figures/orbit.png" alt="Numerical trajectories (MATLAB)"></a><br><sub>Numerical trajectories (MATLAB)</sub></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis"><img src="https://github.com/carolinasaraivabaptista/europe-wellbeing-analysis/raw/main/figures/indicators.png" alt="Well-being in Europe (R)"></a><br><sub>Well-being in Europe (R)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/evolutionary-graph-coloring"><img src="https://github.com/carolinasaraivabaptista/evolutionary-graph-coloring/raw/main/figures/petersen_coloring.png" alt="Evolutionary graph colouring (Python)"></a><br><sub>Evolutionary graph colouring (Python)</sub></td>
+<td align="center" width="33%"><a href="https://github.com/carolinasaraivabaptista/derivative-free-newton"><img src="https://github.com/carolinasaraivabaptista/derivative-free-newton/raw/main/figures/convergence.png" alt="Derivative-free Newton (MATLAB)"></a><br><sub>Derivative-free Newton (MATLAB)</sub></td>
+</tr>
+</table>
 
 ## Get in touch
 
