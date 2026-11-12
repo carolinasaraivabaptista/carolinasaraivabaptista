@@ -11,8 +11,6 @@ I'm a first-year **MSc student in Data Science and Engineering** at [Instituto S
 
 ## Tech
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![DataGrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white)
-
 - **Languages:** Python · R · SQL · Java · MATLAB
 - **Data:** SQL · data modelling · data analysis and visualisation
 - **Areas:** machine learning · statistics · numerical methods · quantitative modelling · simulation
@@ -44,4 +42,4 @@ I'm a first-year **MSc student in Data Science and Engineering** at [Instituto S
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina%20Baptista-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina--baptista/)
+[LinkedIn](https://www.linkedin.com/in/carolina--baptista/)
